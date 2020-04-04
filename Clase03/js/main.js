@@ -9,8 +9,6 @@ window.onload = function(){
 		update: update
 	});
 
-	l
-
 	function loader(){
 		game.load.image("background","assets/images/backyard.png");
 		game.load.image("apple","assets/images/apple.png");
